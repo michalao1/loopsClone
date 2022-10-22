@@ -1,1 +1,1 @@
-print([x for x in range(0, 10)])
+print([x for x in range(0, sum([ord(i) for i in "branch"]))])
